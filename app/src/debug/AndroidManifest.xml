@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Started from adb with extras "files" and "runs"; see BenchActivity. -->
+        <activity android:name="dev.deniz.ses.BenchActivity" android:exported="true" />
+        <receiver android:name="dev.deniz.ses.TestReceiver" android:exported="true"
+            android:permission="android.permission.DUMP" />
+    </application>
+</manifest>

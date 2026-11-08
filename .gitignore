@@ -1,0 +1,11 @@
+build/
+.gradle/
+.kotlin/
+.cxx/
+*.apk
+local.properties
+.idea/
+*.iml
+.DS_Store
+models/
+third_party/

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">
+    <path android:fillColor="#1F6F8B" android:pathData="M8,4h32a4,4 0,0 1,4 4v32a4,4 0,0 1,-4 4H8a4,4 0,0 1,-4 -4V8a4,4 0,0 1,4 -4z" />
+    <!-- sound wave on the left turning into text lines on the right -->
+    <path android:fillColor="#FFFFFF" android:pathData="M9,21h2v6h-2z M13,17h2v14h-2z M17,13h2v22h-2z M21,19h2v10h-2z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M27,16h12a1.5,1.5 0,0 1,0 3H27a1.5,1.5 0,0 1,0 -3z M27,22.5h10a1.5,1.5 0,0 1,0 3H27a1.5,1.5 0,0 1,0 -3z M27,29h12a1.5,1.5 0,0 1,0 3H27a1.5,1.5 0,0 1,0 -3z" />
+</vector>
