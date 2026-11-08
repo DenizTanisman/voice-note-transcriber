@@ -57,3 +57,7 @@ export JAVA_HOME=<JDK 21 yolu>
 Yerel kod debug APK'da da Release olarak derlenir. CPU hedefi `armv8.2-a+dotprod+i8mm+fp16`.
 
 whisper.cpp MIT lisanslıdır (Georgi Gerganov ve katkıda bulunanlar), APK içinde derlenmiş olarak yer alır.
+
+## Lisans
+
+[MIT](LICENSE)
